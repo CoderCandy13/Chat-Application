@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CoderCandy13/static/css/main.e6c13ad2.css",
+    "main.js": "/CoderCandy13/static/js/main.88fd753d.js",
+    "index.html": "/CoderCandy13/index.html",
+    "main.e6c13ad2.css.map": "/CoderCandy13/static/css/main.e6c13ad2.css.map",
+    "main.88fd753d.js.map": "/CoderCandy13/static/js/main.88fd753d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.88fd753d.js"
+  ]
+}
